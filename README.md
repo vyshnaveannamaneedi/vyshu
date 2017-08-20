@@ -1,2 +1,2 @@
 # vyshu
-placement boot camp
+placement boot camp 2017
